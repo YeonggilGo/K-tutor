@@ -15,10 +15,9 @@
 **외국인을 대상으로 구어체 빅데이터와 한류컨텐츠(K-drama, K-movie, K-pop)를 이용하여 한국어 학습을 제공하는 모바일 전용 Web 서비스**
 
 * 수행 기간:  2021.02.26 ~ 2021.04.09 
-
-* 결과물 : http://j4a303.p.ssafy.io:8080 (Web)
-
-* UCC : 
+* 결과물 : http://j4a303.p.ssafy.io:8080 (Web) (2021.05.16 기준 배포 중단)
+* UCC : https://youtu.be/-AXplbUd5oY (편집 : 고영길)
+* 시연영상 : https://youtu.be/jfnN_r_visU (제작 : 고영길)
 
 
 
